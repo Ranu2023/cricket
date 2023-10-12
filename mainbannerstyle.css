@@ -56,6 +56,7 @@ text-transform:uppercase;
 margin-right:auto;
   float:left;
   width:75%;
+   text-align: justify;
 }
 #logo
 {
